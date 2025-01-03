@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:wght@400&display=swap');
+
+body {
+    background-color: #ffcccc;
+    text-align: center;
+    font-family: 'Sour Gummy', sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    color: #ff3366;
+}
+
+.heart {
+    font-size: 50px;
+    color: #ff3366;
+    cursor: pointer;
+}
+
+#nao {
+    font-size: 24px;
+    color: #333;
+    background-color: #ffcccc;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+}
